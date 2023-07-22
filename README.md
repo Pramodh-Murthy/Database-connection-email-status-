@@ -1,1 +1,1 @@
-# Database-connection-email-status-
+This is a sample program written in python. The functionality of this program is to load the data from Flat File to Database. If the program execution successfully pr failed the email will trigger and attached the log file to the email. 
